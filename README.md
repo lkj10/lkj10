@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=green&link=https://blog.naver.com/lee_10_)](https://blog.naver.com/lee_10_)
+
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=lkj10&show_icons=true&theme=radical"
          style="height : auto; margin-left : 10px; margin-right : 10px;"
