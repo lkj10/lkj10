@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 완전 비전 중심 방식의 딥러닝 엔지니어가 되고싶습니다. 👋
 <!--
 **lkj10/lkj10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
